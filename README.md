@@ -1,5 +1,7 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
 
+<img src="https://www.example.com/images/dinosaur.jpg">
+
 <h1 align="center">Hola Soy WallyCode <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
